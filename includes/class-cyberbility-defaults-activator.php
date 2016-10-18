@@ -3,11 +3,11 @@
 /**
  * Fired during plugin activation
  *
- * @link       http://example.com
+ * @link       http://benwhit.co
  * @since      1.0.0
  *
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
+ * @package    Cyberbility_Defaults
+ * @subpackage Cyberbility_Defaults/includes
  */
 
 /**
@@ -16,11 +16,11 @@
  * This class defines all code necessary to run during the plugin's activation.
  *
  * @since      1.0.0
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
- * @author     Your Name <email@example.com>
+ * @package    Cyberbility_Defaults
+ * @subpackage Cyberbility_Defaults/includes
+ * @author     Ben Whit <bwhitlock@cyberbility.com>
  */
-class Plugin_Name_Activator {
+class Cyberbility_Defaults_Activator {
 
 	/**
 	 * Short Description. (use period)
